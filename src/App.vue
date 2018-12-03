@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <!-- <img alt="Vue logo" src="./assets/logo.png"> -->
-    <BadDog msg="Protect yourself"/>
+    <BadDog msg="NO! BAD DOG!"/>
   </div>
 </template>
 
